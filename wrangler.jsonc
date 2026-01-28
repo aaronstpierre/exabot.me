@@ -1,9 +1,7 @@
 {
   "name": "exabot-personal-site",
   "compatibility_date": "2026-01-28",
-  "main": "src/worker.js",
   "assets": {
-    "directory": "./dist",
-    "binding": "ASSETS"
+    "directory": "./dist"
   }
 }
